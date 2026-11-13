@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+
+# Node
+node_modules/
+dist/
+
+# 数据与上传文件
+data/
+uploads/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
